@@ -33,7 +33,7 @@ const submit=()=>{
   return (
     <div>
       <Center>
-       <Text fontSize='30px' fontWeight='medium'fontFamily='sans-serif'>LENA BANK</Text>
+       <Text fontSize='30px' fontWeight='medium'fontFamily='sans-serif'>AAPNA BANK</Text>
       </Center>
         <Box w='30%' h='auto' margin='auto' mt='3cm'  p='10px' boxShadow='md'> 
 

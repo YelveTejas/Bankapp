@@ -63,8 +63,10 @@ const token =localStorage.getItem('token')
                     ))
                    ):(
                     <>
-                    <Depostmodal/>
-                    <Withdrawmodel/>
+                    <Container w='7cm'>
+                      <Text size='medium' fontWeight='medium'>Deposit Your money...</Text>
+                      <Withdrawmodel/>
+                    </Container>
                     </>
                    )
                   }
